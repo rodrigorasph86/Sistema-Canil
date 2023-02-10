@@ -1,4 +1,4 @@
-/* @import url("https://fonts.googlepis.com/css2?family=Rubik:wght@400;514&display=swap"); */
+@import url("https://fonts.googlepis.com/css2?family=Rubik:wght@400;514&display=swap");
 * {
   color: #000;
 }
@@ -81,6 +81,14 @@ form {
   border-radius: 16px;
   margin-left: 100vh;
   padding: 30px 50px 80px 40px;
+}
+
+.modal-body input {
+  background-color: #e2e2dd;
+  border: none;
+}
+.modal-body .BtnFechar {
+  background-color: black;
 }
 
 /*# sourceMappingURL=style.css.map */
