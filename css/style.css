@@ -1,6 +1,10 @@
-@import url("https://fonts.googlepis.com/css2?family=Rubik:wght@400;514&display=swap");
+/* @import url("https://fonts.googlepis.com/css2?family=Rubik:wght@400;514&display=swap"); */
 * {
   color: #000;
+}
+
+body {
+  overflow-x: hidden;
 }
 
 .header {
@@ -25,8 +29,8 @@ logoPc {
 }
 
 .form-cadastro {
-  margin-top: 200px;
-  margin-left: 1000px;
+  margin-top: -700px;
+  margin-left: 900px;
   border-radius: 10px;
   height: 500px;
   width: 500px;
